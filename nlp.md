@@ -11,7 +11,9 @@
   + Ref: (Enriching Word Vectors with Subword Information)[https://arxiv.org/abs/1607.04606]
 - [penseur](https://github.com/danielricks/penseur): An interface for the Sent2Vec encoder and training code from the "Skip-Thought Vectors" paper
 
+
 ### Examples / Tutorials
 
 - [Deep Learning in Natural Language Processing — A QA Classification Tutorial using Tensorflow](http://campuspress.yale.edu/yw355/deep_learning/)
   + A tutorial on how to use deep learning for QA classification, by Yu Weng
+- [Using Tensorflow for Email Classification](http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html)
